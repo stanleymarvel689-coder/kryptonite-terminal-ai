@@ -142,7 +142,7 @@
             </div>
         </section>
 
-        <!-- 5. PAYMENT & ADMIN VERIFICATION SECTION -->
+       <!-- 5. PAYMENT & ADMIN VERIFICATION SECTION -->
         <section id="payment-info" class="py-20 bg-brand-card/40 border-t border-gray-800/80">
             <div class="max-w-4xl mx-auto px-6">
                 <div class="bg-brand-card border border-gray-800 rounded-2xl p-8 md:p-12 relative overflow-hidden">
