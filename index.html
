@@ -156,13 +156,13 @@
 
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 bg-brand-bg p-6 rounded-xl border border-gray-800/80 mb-8">
                         <div>
-                            <span class="text-xs font-mono text-gray-500 uppercase">M-Pesa Buy Goods Till / Admin Contact</span>
-                            <div class="text-xl font-bold text-white mt-1 font-mono">[ Insert Till Number / Phone ]</div>
+                            <span class="text-xs font-mono text-gray-500 uppercase">M-Pesa  Pochi La Biashara</span>
+                            <div class="text-xl font-bold text-white mt-1 font-mono">0702237419</div>
                             <p class="text-xs text-gray-400 mt-1">Check the business name before confirming PIN.</p>
                         </div>
                         <div>
                             <span class="text-xs font-mono text-gray-500 uppercase">Session Coordinator</span>
-                            <div class="text-xl font-bold text-white mt-1 font-mono">[ Admin Name / WhatsApp ]</div>
+                            <div class="text-xl font-bold text-white mt-1 font-mono">Kryptonite ecosystem support</div>
                             <p class="text-xs text-gray-400 mt-1">Send M-Pesa confirmation code directly for instant invite link.</p>
                         </div>
                     </div>
